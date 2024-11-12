@@ -162,7 +162,7 @@ function respondEcho(req, res) {
     }));
 }
 ```
-
+ 
 In your web viewer, visit the `/echo?input=fullstack` endpoint. You should see the appropriate response returned.
 
 6. Now, let's introduce Express. Express is a fast un-opinionated web framework for Node.js. It is a very popular framework for building web applications. It is very easy to get started with, and it is very flexible. We will use it to build our web application. First, let's install it. In the Shell, run the following command:
